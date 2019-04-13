@@ -63,7 +63,7 @@ namespace YsLibrary
         public HttpContext Context
         {
             get
-            {
+            { 
                 return HttpContext.Current;
             }
         }
